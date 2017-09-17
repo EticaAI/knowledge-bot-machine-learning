@@ -1,4 +1,4 @@
-# knowledge-bot-machine-learning
+# Etica.AI Machine Learning Knowledge Bot: ml-kbot.etica.ai
 [draft] Semi-random suggestions on how to learn machine learning. See https://github.com/EticaAI/forum/issues/49
 
 ## Data sources
@@ -9,3 +9,9 @@
 - [Awesome Machine Learning, free books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - [Awesome Machine Learning, free courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
 - [Awesome Machine Learning, blogs](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
+
+## License
+
+Except where explicitly stated otherwise, code and database placed here are
+dedicated in the form of [Public Domain](UNLICENSE) in the hope of promoting
+its adoption and social good.
