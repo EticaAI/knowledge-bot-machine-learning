@@ -1,6 +1,10 @@
 # Etica.AI Machine Learning Knowledge Bot: ml-kbot.etica.ai
 [draft] Semi-random suggestions on how to learn machine learning. See https://github.com/EticaAI/forum/issues/49
 
+## Databases
+
+See [database/](database/).
+
 ## Data sources
 
 - [List of datasets for machine learning research, Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
