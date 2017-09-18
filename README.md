@@ -1,11 +1,22 @@
-# Etica.AI Machine Learning Knowledge Bot: ml-kbot.etica.ai
-[draft] Semi-random suggestions on how to learn machine learning. See https://github.com/EticaAI/forum/issues/49
+# Etica.AI Machine Learning Knowledge Bot
+Future knowledge bot, machine learning domain. Objective: return semi-randomly
+references of how to learn about the subject.
+
+First it will be necessary to gather the respective reference dictionary
+(free books, videos, online courses) in a machine-readable format, which is
+different from the [format used by humans](#data-sources).
+
+The knowledge bot code [may not stay in this same
+repository](https://github.com/EticaAI/knowledge-bot-machine-learning/issues/2)
+but the databases, will stay here.
 
 ## Databases
 
-See [database/](database/).
+For machine-readable format, see [database folder](database/).
 
 ## Data sources
+
+For human-readable format, see:
 
 - [List of datasets for machine learning research, Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
