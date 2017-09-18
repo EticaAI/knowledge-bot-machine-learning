@@ -1,6 +1,6 @@
 # Etica.AI Machine Learning Knowledge Bot: Databases
 
-- Repository [free-book.tsv](free-book.tsv) ([Google Sheets](https://docs.google.com/spreadsheets/d/1WnT6AO4j06M3i8MULW5i7KB2tz5yhNm5fodhehgjPUY/edit?usp=sharing))
+- Repository [books.tsv](books.tsv) ([Google Sheets](https://docs.google.com/spreadsheets/d/1WnT6AO4j06M3i8MULW5i7KB2tz5yhNm5fodhehgjPUY/edit?usp=sharing))
 
 ## Google Sheets
 

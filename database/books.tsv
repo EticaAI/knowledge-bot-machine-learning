@@ -1,0 +1,4 @@
+id	language	date	author	publisher	title	link	main-topics	is-free	format	size	has-code-for	keywords	comments
+1	en	2016	Ian Goodfellow,Yoshua Bengio,Aaron Courville	MIT Press	Deep Learning - An MIT Press book	http://www.deeplearningbook.org/	deep-learning	1	html				
+2	en	2005	David Kriesel		A Brief Introduction to Neural Networks	http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf	neural-networks	1	pdf	6.4MB			
+3	en	2017-08	Michael Nielsen		Neural Networks and Deep Learning	http://neuralnetworksanddeeplearning.com/	deep-learning,neural-networks	1	html				
