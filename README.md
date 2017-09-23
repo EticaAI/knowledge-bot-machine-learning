@@ -24,6 +24,7 @@ For human-readable format, see:
 - [Awesome Machine Learning, free books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - [Awesome Machine Learning, free courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
 - [Awesome Machine Learning, blogs](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
+- [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 
 ## License
 
